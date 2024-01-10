@@ -7,6 +7,8 @@
 
 <!-- .venv\Scripts\activate.bat ## ativa ambiente no windows (powershell) -->
 
+<!-- pip install - r requirements.txt ## baixa os requirements.txt -->
+
 <!-- ------------------------------------------------------------------------------------------------------------- -->
 
 <!-- python manage.py runserver ##rodar servidor -->
