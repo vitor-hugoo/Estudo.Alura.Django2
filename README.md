@@ -18,3 +18,6 @@
 <!-- python manage.py migrate ## migrar para banco -->
 
 <!-- python manage.py flush ## limpar banco -->
+
+<!-- python manage.py createsuperuser ## criar usuário admin -->
+
