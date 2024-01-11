@@ -9,6 +9,8 @@
 
 <!-- pip install - r requirements.txt ## baixa os requirements.txt -->
 
+<!-- pip freeze > .\requirements.txt ## gerar dependecias do projeto -->
+
 <!-- ------------------------------------------------------------------------------------------------------------- -->
 
 <!-- python manage.py runserver ##rodar servidor -->
