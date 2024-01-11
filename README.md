@@ -13,6 +13,8 @@
 
 <!-- ------------------------------------------------------------------------------------------------------------- -->
 
+<!-- django-admin startproject <nome do projeto> ## inicia projeto -->
+
 <!-- python manage.py runserver ##rodar servidor -->
 
 <!-- python manage.py makemigrations ## criar migrações -->
