@@ -16,3 +16,5 @@
 <!-- python manage.py makemigrations ## criar migrações -->
 
 <!-- python manage.py migrate ## migrar para banco -->
+
+<!-- python manage.py flush ## limpar banco -->
