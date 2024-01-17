@@ -15,6 +15,8 @@
 
 <!-- django-admin startproject <nome do projeto> ## inicia projeto -->
 
+<!-- python manage.py startapp <nome do app> ## cria app -->
+
 <!-- python manage.py runserver ##rodar servidor -->
 
 <!-- python manage.py makemigrations ## criar migrações -->
